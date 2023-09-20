@@ -1,1 +1,19 @@
-Year,Sample,Location,Reads (trimmed),Viral reads,% of viral reads,Note,Varroa2019,Lisnice11,Lisnice," 31,076,599 "," 10,550,554 ",34.0,,None/almost none,Lisnice24,," 19,091,873 "," 5,188,533 ",27.2,,None/almost none,Lisnice333,," 17,977,650 "," 16,213,132 ",90.2,,None/almost none,Brdy1,Brdy," 40,803,907 "," 16,686,775 ",40.9,,None/almost none,Brdy2,," 23,117,498 "," 9,194,386 ",39.8,,None/almost none,Brdy3,," 14,859,869 "," 8,502,457 ",57.2,,None/almost none,Libechov11,Libechov," 27,607,013 "," 14,476,774 ",52.4,,None/almost none,Libechov14,," 12,922,552 "," 891,042 ",6.9,,None/almost none,Libechov6,," 13,488,775 "," 4,726,933 ",35.0,,None/almost none,Prasily1,Prasily," 11,199,897 "," 11,013,844 ",98.3,,None/almost none,Prasily2,," 12,257,953 "," 11,745,538 ",95.8,,None/almost none,Prasily3,," 35,351,758 "," 17,478,510 ",49.4,,None/almost none,VURV1,VURV," 20,311,029 "," 13,020,637 ",64.1,,None/almost none,VURV5,," 25,364,850 "," 18,083,600 ",71.3,,None/almost none,VURV4,," 37,424,653 "," 35,597,081 ",95.1,,None/almost none,VURV7,," 23,001,338 "," 20,429,173 ",88.8,,None/almost none,VURV_H,," 14,267,600 "," 9,794,762 ",68.7,cage experiment,None/almost none,VURV_D,," 9,841,001 "," 9,775,180 ",99.3,cage experiment,Present,,,,,,,
+Year,Sample,Location,Reads (trimmed),Viral reads,% of viral reads,Note,Varroa
+2019,Lisnice11,Lisnice,"31,076,599","10,550,554",34,,None/almost none
+2019,Lisnice24,Lisnice,"19,091,873","5,188,533",27.2,,None/almost none
+2019,Lisnice333,Lisnice,"17,977,650","16,213,132",90.2,,None/almost none
+2019,Brdy1,Brdy,"40,803,907","16,686,775",40.9,,None/almost none
+2019,Brdy2,Brdy,"23,117,498","9,194,386",39.8,,None/almost none
+2019,Brdy3,Brdy,"14,859,869","8,502,457",57.2,,None/almost none
+2019,Libechov11,Libechov,"27,607,013","14,476,774",52.4,,None/almost none
+2019,Libechov14,Libechov,"12,922,552","891,042",6.9,,None/almost none
+2019,Libechov6,Libechov,"13,488,775","4,726,933",35,,None/almost none
+2019,Prasily1,Prasily,"11,199,897","11,013,844",98.3,,None/almost none
+2019,Prasily2,Prasily,"12,257,953","11,745,538",95.8,,None/almost none
+2019,Prasily3,Prasily,"35,351,758","17,478,510",49.4,,None/almost none
+2019,VURV1,VURV,"20,311,029","13,020,637",64.1,,None/almost none
+2019,VURV5,VURV,"25,364,850","18,083,600",71.3,,None/almost none
+2019,VURV4,VURV,"37,424,653","35,597,081",95.1,,None/almost none
+2019,VURV7,VURV,"23,001,338","20,429,173",88.8,,None/almost none
+2019,VURV_H,VURV,"14,267,600","9,794,762",68.7,cage experiment,None/almost none
+2019,VURV_D,VURV,"9,841,001","9,775,180",99.3,cage experiment,Present
